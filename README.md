@@ -1,5 +1,11 @@
-## Hi there 👋
+## Hi ChaoFan Welcome!!! 👋
 
+- 🔭 I’m currently working on Data Processing
+- 🌱 I’m currently learning Databases,processing engines,AI,algorithms
+- 📫 How to reach me: shicf0311@gmail.com
+- 😄 Pronouns: pual
+- ⚡ Fun fact: Learning,Reading
+- 💬 Come with me about these 
 <!--
 **pual-S/pual-S** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
