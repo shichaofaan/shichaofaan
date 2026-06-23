@@ -1,24 +1,40 @@
-## Hi ChaoFan Welcome!!! 👋
+# 👋 Hi, I'm ChaoFan (Pual)
 
-- 🔭 I’m currently working on Data Processing
-- 🌱 I’m currently learning Databases,processing engines,AI,algorithms
-- 📫 How to reach me: shicf0311@gmail.com
-- 😄 Pronouns: pual
-- ⚡ Fun fact: Learning,Reading
-- 💬 Come with me about these 
-<!--
-**pual-S/pual-S** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**`Data Engineer · AI Enthusiast · Continuous Learner`**
 
-Here are some ideas to get you started:
+I'm passionate about building scalable data pipelines, exploring the frontiers of AI, and turning raw data into actionable insights. Currently diving deep into **Flink**, **Spark**, **Kafka**, and **Machine Learning** — with a soft spot for **LLMs and Agentic Workflows**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shichaofaan)
-<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pual-S) -->
+---
+
+## 🧰 Tech Stack
+
+| Domain | Technologies |
+|--------|--------------|
+| **Languages** | Python · Java · SQL · Bash |
+| **Big Data** | Apache Flink · Apache Spark · Kafka · Hive · YARN · HDFS |
+| **Databases** | MySQL · PostgreSQL · ClickHouse · Paimon · Doris |
+| **AI/ML** | PyTorch · HuggingFace · LangChain · LLM Fine-tuning |
+| **Cloud & DevOps** | Docker · Kubernetes · COS (Tencent) · CI/CD |
+| **Tools** | Git · Jupyter · DolphinScheduler · Flink CDC |
+
+## 🚀 Highlight Projects
+
+| Project | Description | Tech Stack |
+|---------|-------------|------------|
+| **Flink CDC Sync** | Real‑time sync from MySQL to Paimon with exactly‑once semantics | Flink, Paimon, MySQL CDC |
+| **Industrial Classification RAG** | Multi‑level industry classifier using embedding + vector DB | Chroma, LangChain, LLM |
+| **Event‑Driven Data Platform** | Unified event ingestion and transformation for risk analysis | Flink, Kafka, Doris |
+| **Auto‑Restart Script** | Shell script to monitor and auto‑restart Flink jobs on YARN | Bash, YARN API |
+
+> *(More projects are in progress – stay tuned!)*
+
+---
+
+## 📫 Let's Connect
+
+- 📧 Email: **shicf0311@gmail.com**
+- 💬 WeChat: *s573877411*
+
+I'm always open to discussing **data architecture**, **AI/ML engineering**, or just good books and tech trends. Drop me a message!
+
+---
